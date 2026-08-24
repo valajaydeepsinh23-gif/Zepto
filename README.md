@@ -13,6 +13,8 @@ This project recreates the overall shopping experience with a responsive navigat
 
 **Live URL:** [https://zepoisback.netlify.app/](https://zepoisback.netlify.app/)
 
+Explanation Video:-https://drive.google.com/file/d/1ylyWKdoKREB167K_mVoXC5zrmugQxf7x/view?usp=sharing
+
 ---
 
 ## 📸 Project Overview
