@@ -1,4 +1,3 @@
-હા 👍 Proper, clean અને GitHub/Netlify project માટે professional `README.md` આવું રાખો:
 
 # 🛒 Zepto Clone
 
