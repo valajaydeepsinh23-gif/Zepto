@@ -243,9 +243,10 @@ span {
 
 .icon-5 {
   display: flex;
-  margin-left: 70px;
+  margin-left: 45px;
   gap: 10px;
   margin-top: 8px;
+  font-size: 30px;
 }
 
 .thisis {
@@ -256,6 +257,7 @@ span {
 .thisis {
   color: #ccc;
   gap: 10px;
+
 }
 
 .div-91,
