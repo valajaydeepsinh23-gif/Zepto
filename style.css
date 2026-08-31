@@ -51,7 +51,7 @@
 
 .navigation {
   display: flex;
-  margin-top: 90px;
+  margin-top: 100px;
   font-size: 10px;
   align-items: center;
   text-align: center;
@@ -230,52 +230,37 @@ span {
   margin-right: auto;
 }
 
-.icon-4 {
+
+
+
+
+.max{
   display: flex;
   justify-content: center;
   text-align: center;
-  margin-right: 1000px;
-margin-top: 10px;
-  font-size: 32px;
+  gap: 200px;
+}
+
+.icon-5{
+display: flex;
+margin-left: 70px;
+gap: 10px;
+margin-top: 8px;
+}
+
+.thisis{
+  margin-top: 8px;
+}
+
+.icon-4,.thisis{
   color: #ccc;
-  font-size: 25px;
+  gap: 10px;
 }
 
-.div-45 {
-  display: flex;
-    margin-right: 1000px;
-    margin-top: 10px;
-  justify-content: center;
-  text-align: center;
-}
-
-.image-5 {
-  display: flex;
-  justify-content: end;
-  text-align: end;
-}
-
-.image-5 img {
-  max-width: 300px;
-  max-height: 200px;
-}
-
-.thisis {
-  display: flex;
-  justify-content: center;
-  text-align: center;
-    margin-right: 1000px;
-margin-top: 10px;
-  font-size: large;
+.div-91,.div-92{
+  list-style: none;
   color: #ccc;
+  margin-bottom: 100px;
 }
 
 
-.div-91{
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  color: #b4b4b4;
-  margin-top: 30px;
-  gap: 20px;
-}
