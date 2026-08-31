@@ -71,11 +71,14 @@
 
 .banner {
   display: flex;
+  text-align: center;
+  justify-content: center;
   margin-top: 50px;
-  width: 1800px;
-  height: 450px;
+  width: 1600px;
+  height: 350px;
   gap: 20px;
-  margin-left: 45px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .image {
